@@ -209,8 +209,8 @@ a.social {
   width: 30px;
   height: 30px;
   background-size: 30px 30px;
-  opacity: .7;
-  transition: all .5s;
+  opacity: 0.7;
+  transition: all 0.5s;
 }
 a.twitter {
   background-image: url(images/twitter.svg);
