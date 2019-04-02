@@ -153,10 +153,10 @@ ul.skills {
   transform: scale(1.1);
 }
 
-.work {
+/*.work {
   padding-left: 100px;
   text-align: left;
-}
+}*/
 
 .job-title {
   text-transform: uppercase;
@@ -169,15 +169,24 @@ ul.skills {
 
 }
 
-.education {
- padding-left: 100px;
+.education,
+.work {
+ padding: 1% 10% ;
   text-align: left;
+  margin: auto;
 
 }
 
 .title-align {
 margin-left: 20px;
 margin-bottom: 75px;
+
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  
 
 }
 
